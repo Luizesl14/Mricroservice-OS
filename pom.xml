@@ -19,7 +19,7 @@
 
     <properties>
         <java.version>17</java.version>
-        <spring-cloud.version>2021.0.0</spring-cloud.version>
+        <spring-cloud.veron>2021.0.0</spring-cloud.veron>
     </properties>
 
     <dependencies>
