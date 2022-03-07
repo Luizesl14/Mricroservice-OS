@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "eureka.instance.client.service-url.defaultZone",
+      "type": "java.lang.String",
+      "description": "Description for eureka.instance.client.service-url.defaultZone."
+    },
+    {
+      "name": "spring.cloud.config.uri",
+      "type": "java.lang.String",
+      "description": "Description for spring.cloud.config.uri."
+    },
+    {
+      "name": "cloud.gateway.discovery.locator.enabled",
+      "type": "java.lang.String",
+      "description": "Description for cloud.gateway.discovery.locator.enabled."
+    },
+    {
+      "name": "management.endpoints.web.exposure.include",
+      "type": "java.lang.String",
+      "description": "Description for management.endpoints.web.exposure.include."
+    }
+  ] }
